@@ -28,6 +28,8 @@ https://pythonbestcourses.com/complete-python-developer-in-2020/
 
 `Complete Nodejs Course: `https://www.freetutorialsus.com/the-complete-node-js-developer-course-3rd-edition/
 
+`NextJs Complete Guide : `https://www.freecodecamp.org/news/the-next-js-handbook/
+
 #### Artificial Intelligence and Machine Learning 
 
 https://freecoursesite.com/data-science-deep-learning-machine-learning-with-python-1/
