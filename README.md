@@ -26,6 +26,8 @@ https://pythonbestcourses.com/complete-python-developer-in-2020/
 
 `JavaScript Advance Concept Book: ` https://github.com/getify/You-Dont-Know-JS 
 
+`Complete Nodejs Course: `https://www.freetutorialsus.com/the-complete-node-js-developer-course-3rd-edition/
+
 #### Artificial Intelligence and Machine Learning 
 
 https://freecoursesite.com/data-science-deep-learning-machine-learning-with-python-1/
