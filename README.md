@@ -8,6 +8,8 @@
 
 https://freecoursesite.com/the-complete-python-3-masterclass-from-beginner-to-pro/
 
+https://pythonbestcourses.com/complete-python-developer-in-2020/
+
 #### JavaScript : 
 
 `Data Structure And Algorithms :`https://freecoursesite.com/master-the-coding-interview-data-structures-algorithms/
