@@ -33,3 +33,6 @@ https://pythonbestcourses.com/complete-python-developer-in-2020/
 #### Artificial Intelligence and Machine Learning 
 
 https://freecoursesite.com/data-science-deep-learning-machine-learning-with-python-1/
+
+#### Tech Interview 
+`Tech Interview Handbook: `https://yangshun.github.io/tech-interview-handbook/
