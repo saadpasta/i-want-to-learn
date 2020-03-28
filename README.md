@@ -18,7 +18,7 @@ https://pythonbestcourses.com/complete-python-developer-in-2020/
 
 `Advanced JavaScript Concepts:` https://freecoursesite.com/advanced-javascript-concepts/
 
-`Learn Advanced React:`https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+`Learn React Zero to Hero:`https://freecoursesite.com/complete-react-developer-in-2019-w-redux-hooks-graphql/
 
 `React Native: ` https://freecoursesite.com/the-complete-react-native-and-redux-course-1/
 
